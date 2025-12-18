@@ -1,0 +1,6 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/projects/legal-led-summarization/page": "app/projects/legal-led-summarization/page.js",
+  "/projects/stock-timeseries-analysis/page": "app/projects/stock-timeseries-analysis/page.js"
+}
