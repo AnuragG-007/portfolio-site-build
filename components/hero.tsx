@@ -82,7 +82,7 @@ export default function Hero() {
               <div className="absolute bottom-0 left-0 w-2 h-2 bg-cyan-400" />
               <p className="text-lg md:text-xl text-gray-300 text-pretty leading-relaxed font-mono">
                 Building intelligent systems across NLP, Computer Vision, and
-                Deep Learning — from model training to production-ready CRUD and
+                Deep Learning, from model training to production-ready CRUD and
                 inference backends built with FastAPI.
               </p>
             </div>
