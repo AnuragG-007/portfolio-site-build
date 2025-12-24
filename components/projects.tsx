@@ -23,7 +23,7 @@ const projects = [
       "Hybrid Ranking Systems",
       "FastAPI",
     ],
-    github: "https://github.com/AnuragG-007/steam-gamefinder",
+    github: "https://github.com/AnuragG-007/steam-games-search-recommend",
     demo: "https://steam-games-amg.vercel.app/",
     blog: "/projects/steam-games-recommendation-engine",
   },
