@@ -11,6 +11,22 @@ import { Badge } from "@/components/ui/badge";
 import { Github, ExternalLink, FileText } from "lucide-react";
 
 const projects = [
+    {
+    title: "Steam GameFinder — Semantic Game Recommendation Engine",
+    description:
+      "An AI-driven game discovery system that enables natural language-based search and recommendation of Steam games. The platform combines LLM-powered intent understanding, vector embeddings, and hybrid ranking to deliver context-aware, explainable recommendations.",
+    tech: [
+      "Python",
+      "LLMs (LLaMA)",
+      "Semantic Search",
+      "Vector Databases (Pinecone)",
+      "Hybrid Ranking Systems",
+      "FastAPI",
+    ],
+    github: "https://github.com/AnuragG-007/steam-gamefinder",
+    demo: "https://steam-games-amg.vercel.app/",
+    blog: "/projects/steam-games-recommendation-engine",
+  },
   {
     title: "LegalWork.AI — Legal Document Summarization System",
     description:
